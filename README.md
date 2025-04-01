@@ -30,8 +30,8 @@ pip install -r requirements.txt
 ```
 python financial_web_scraper.ipynb
 ```
- ### Usage
-##🔹 Fetch Financial Data & News
+ ###Usage
+## Fetch Financial Data & News
 Runfinancial_web_scraper.ipynb and enter:
 
 The company ticker (e.g., INFY for Infosys, TSLA for Tesla)
