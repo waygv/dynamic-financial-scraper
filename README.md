@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ```
 python financial_web_scraper.ipynb
 ```
- ###Usage
+ ### Usage
 ## Fetch Financial Data & News
 Runfinancial_web_scraper.ipynb and enter:
 
